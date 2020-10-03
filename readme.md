@@ -44,7 +44,13 @@
 <br />
 
 
+### 📊  This week I spent my time on 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://keithfranklin.xyz
 [instagram]: https://instagram.com/keith_frank1in
