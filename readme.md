@@ -59,5 +59,5 @@ No Activity tracked this Week
 
 [website]: https://keithfranklin.xyz
 [instagram]: https://instagram.com/keith_frank1in
-[linkedin]: www.linkedin.com/in/keith-frankl1n
+[linkedin]: https://www.linkedin.com/in/keith-frankl1n/
 [tag]: https://keithfranklin.xyz
