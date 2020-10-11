@@ -49,8 +49,7 @@
 ### 📊  This week I spent my time on 
 <!--START_SECTION:waka-->
 ```text
-YAML       20 mins         ███████████████▓░░░░░░░░░   62.76 % 
-Markdown   12 mins         █████████▒░░░░░░░░░░░░░░░   37.24 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
