@@ -49,7 +49,7 @@
 ### 📊  This week I spent my time on 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 min           ███████████████████▒░░░░░   77.73 % 
+
 ```
 <!--END_SECTION:waka-->
 
