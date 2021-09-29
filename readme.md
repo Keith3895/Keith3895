@@ -49,7 +49,8 @@
 ### 📊  This week I spent my time on 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   7 mins          █████████████████████▒░░░   85.78 % 
+TypeScript   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 ```
 <!--END_SECTION:waka-->
 
