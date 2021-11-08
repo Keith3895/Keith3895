@@ -57,7 +57,7 @@ JSON         31 mins         █▓░░░░░░░░░░░░░░░
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- ["That's not my job"](http://feedproxy.google.com/~r/keithfranklin/INet/~3/OeUWEGt20vo/thats-not-my-job.html)
+- [&quot;That&#39;s not my job&quot;](http://feedproxy.google.com/~r/keithfranklin/INet/~3/OeUWEGt20vo/thats-not-my-job.html)
 - [Murmuration: A view into Artificial life.](http://feedproxy.google.com/~r/keithfranklin/INet/~3/K2t6anWZZoE/murmuration-view-into-artificial-life.html)
 - [The Dawn of programers](http://feedproxy.google.com/~r/keithfranklin/INet/~3/G8qzcUcEkXs/the-dawn-of-programers.html)
 - [Understanding TDD - Part 2 - Adopting TDD](http://feedproxy.google.com/~r/keithfranklin/INet/~3/Xh70vLXQO2A/understanding-tdd-part-2-adopting-tdd.html)
