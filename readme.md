@@ -49,8 +49,6 @@
 ### 📊  This week I spent my time on 
 <!--START_SECTION:waka-->
 ```text
-Total: 9 mins
-
 Dart   9 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
