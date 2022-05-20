@@ -5,7 +5,6 @@
 - ⚽️  I support Manchester City and Bengaluru FC.
 -  2020 Goals: 
     - 🥅 Contribute to Open Source projects
-    - 🏆 Clear My IELTS
 
 
 ### Connect with me:
