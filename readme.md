@@ -49,11 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON              14 mins         ██████████████░░░░░░░░░░░   55.83 %
-JavaScript        5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-Bash              2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-TypeScript        1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Protocol Buffer   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+JSON              13 mins         ████████████████████▒░░░░   81.54 %
+TypeScript        1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Protocol Buffer   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
 ```
 
 <!--END_SECTION:waka-->
