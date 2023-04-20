@@ -49,9 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON         16 mins         ███████████████████████▓░   94.34 %
-JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
