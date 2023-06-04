@@ -2,9 +2,7 @@
 [![Website](https://img.shields.io/website?label=keithfranklin.xyz&style=for-the-badge&url=https%3A%2F%2Fkeithfranklin.xyz)](https://keithfranklin.xyz)
 
 ## I'm a Developer, Learner and Experimenter !
-- ⚽️  I support Manchester City and Bengaluru FC.
--  2020 Goals: 
-    - 🥅 Contribute to Open Source projects
+
 
 
 ### Connect with me:
