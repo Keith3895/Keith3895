@@ -47,11 +47,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                       39 mins         ███████▓░░░░░░░░░░░░░░░░░   30.64 %
-TypeScript                 22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
-Nginx configuration file   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Docker                     12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-SQL                        10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
