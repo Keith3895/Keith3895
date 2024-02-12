@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React, Angular, NodeJS**
 
-- 📫 How to reach me **keith30895@gmail.com**
+- 📫 How to reach me **contact.keithfranklin@gmail.com**
 
 - 📄 Know about my experiences [https://keithfranklin.xyz/](https://keithfranklin.xyz/)
 
