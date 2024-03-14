@@ -53,8 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       1 min           ███████████████████████▓░   94.51 %
-TSConfig   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
