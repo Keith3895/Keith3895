@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keith3895" alt="keith3895" /></a> </p>
 
-- 🔭 I’m currently working on [Car Wash app](https://github.com/Keith3895/car-wash)
+- 🔭 I’m currently working on [Echo](https://github.com/EchoRag)
 
-- 🌱 I’m currently learning **Web3, and solidity**
+- 👯 I’m looking to collaborate on [Echo](https://github.com/EchoRag)
 
-- 👯 I’m looking to collaborate on [Car Wash app](https://github.com/Keith3895/car-wash)
-
-- 🤝 I’m looking for help with [Car Wash app](https://github.com/Keith3895/car-wash)
+- 🤝 I’m looking for help with [Echo](https://github.com/EchoRag)
 
 - 👨‍💻 All of my projects are available at [https://keithfranklin.xyz/#/projects](https://keithfranklin.xyz/#/projects)
 
